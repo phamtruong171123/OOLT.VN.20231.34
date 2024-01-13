@@ -1,0 +1,4 @@
+Trường: thiết kế diagram + class , Code class move,player,twoplayer(morden),menu,newgame ;
+Trọng: thiết kế diagram + class, code class Box, eatbox, game + controller
+Trung: thuyết trình, code class: gameover, help
+Trường k63: làm slide, code class: boardview
